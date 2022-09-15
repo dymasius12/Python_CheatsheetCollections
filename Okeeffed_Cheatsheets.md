@@ -7,7 +7,7 @@ all credits goes to: https://github.com/okeeffed
 *   [Data Structures with Python](#data-structures-with-python)
     *   [PYDS-12.0: Arrays](#pyds-120-arrays)
     *   [PYDS-12.1: Low Level Arrays](#pyds-121-low-level-arrays)
-    *   [PYDS 12.2: Amotization](#pyds-122-amotization)
+    *   [PYDS 12.2: Amortization](#pyds-122-amotization)
     *   [PYDS-13.0: Stacks, Queues and Deques](#pyds-130-stacks-queues-and-deques)
     *   [PYDS-13.1: Queues Overview](#pyds-131-queues-overview)
     *   [PYDS-13.2: Deques Overview](#pyds-132-deques-overview)
